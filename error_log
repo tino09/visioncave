@@ -1,0 +1,6 @@
+[26-Apr-2020 21:08:08 UTC] PHP Notice:  Undefined index: number in /home/visionca/public_html/contact_process.php on line 7
+[26-Apr-2020 21:08:08 UTC] PHP Notice:  Undefined variable: csubject in /home/visionca/public_html/contact_process.php on line 29
+[04-Sep-2020 18:53:04 UTC] PHP Notice:  Undefined index: email in /home/visionca/public_html/contact_process.php on line 4
+[04-Sep-2020 18:53:04 UTC] PHP Notice:  Undefined index: name in /home/visionca/public_html/contact_process.php on line 5
+[04-Sep-2020 18:53:04 UTC] PHP Notice:  Undefined index: subject in /home/visionca/public_html/contact_process.php on line 6
+[04-Sep-2020 18:53:04 UTC] PHP Notice:  Undefined index: message in /home/visionca/public_html/contact_process.php on line 8
